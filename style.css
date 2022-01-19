@@ -1,0 +1,71 @@
+.time {
+    background-color: red;
+    color: white;
+}
+
+th {
+    font-size: 25px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+td {
+    font-size: 22px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+h1 {
+    margin-bottom: 25px;
+}
+
+table {
+    border-radius: 10px;
+    font-family: cursive;
+}
+
+.Day {
+    background-color: blanchedalmond;
+}
+
+.lunch {
+    background-color: deepskyblue;
+    color: white;
+}
+
+.mon {
+    background-color: green;
+    color: white;
+}
+
+.tue {
+    background-color: cadetblue;
+    color: white;
+}
+
+.wed {
+    background-color: violet;
+    color: white;
+}
+
+.thu {
+    background-color: orangered;
+    color: white;
+}
+
+.fri {
+    background-color: yellowgreen;
+    color: white;
+}
+
+.sat {
+    background-color: midnightblue;
+    color: white;
+}
+
+.dis {
+    font-weight: bold;
+    color: red;
+    font-size: 14px;
+    font-family: cursive;
+}
